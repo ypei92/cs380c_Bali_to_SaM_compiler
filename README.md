@@ -1,1 +1,3 @@
-# cs380c_Bali_to_SaM_compiler
+# cs380c Bali to SaM Compiler
+
+Author: Yan Pei & Jiayuan He
